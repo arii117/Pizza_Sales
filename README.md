@@ -1,3 +1,10 @@
+### ER Diagram:
+![Blank diagram](https://github.com/user-attachments/assets/c634abf7-56c4-4c7f-8f20-1ac20efb6561)
+
+
+
+
+
 ### 1.Sales Performance & Revenue Analysis
 
 ## Total Revenue
